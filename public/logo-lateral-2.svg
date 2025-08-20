@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1411.32 524.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7eaa85;
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_132-3);
+      }
+
+      .cls-3 {
+        font-size: 138.5px;
+      }
+
+      .cls-4 {
+        fill: #7fa985;
+        font-family: Montserrat-Regular, Montserrat;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_132);
+      }
+
+      .cls-6 {
+        font-size: 46.17px;
+      }
+
+      .cls-7 {
+        fill: url(#Gradiente_sem_nome_132-2);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_132" data-name="Gradiente sem nome 132" x1="4.96" y1="180.54" x2="12.43" y2="180.54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a27613"/>
+      <stop offset=".24" stop-color="#fed25f"/>
+      <stop offset=".49" stop-color="#fffffe"/>
+      <stop offset=".74" stop-color="#ffda64"/>
+      <stop offset="1" stop-color="#a27713"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_132-2" data-name="Gradiente sem nome 132" y1="226.3" y2="226.3" xlink:href="#Gradiente_sem_nome_132"/>
+    <linearGradient id="Gradiente_sem_nome_132-3" data-name="Gradiente sem nome 132" x1="12.43" y1="203.53" x2="210.6" y2="203.53" xlink:href="#Gradiente_sem_nome_132"/>
+  </defs>
+  <g>
+    <path class="cls-1" d="M199.81,227.43c-13.22,0-23.98-10.76-23.98-23.98s10.76-23.98,23.98-23.98,23.98,10.76,23.98,23.98-10.76,23.98-23.98,23.98ZM199.81,191.52c-6.58,0-11.94,5.36-11.94,11.94s5.36,11.94,11.94,11.94,11.94-5.36,11.94-11.94-5.36-11.94-11.94-11.94Z"/>
+    <path class="cls-5" d="M4.96,209.18h7.48v-57.29l-7.47,45.55v11.75Z"/>
+    <g>
+      <path class="cls-7" d="M4.96,209.18l7.48,45.99v-57.73h-7.47v11.75Z"/>
+      <path class="cls-2" d="M143.1,203.22c39-14.06,66.95-51.44,66.95-95.21V41.74h-46.8c-70.51,0-130.39,46.34-150.82,110.15v103.28c20.43,63.82,80.31,110.15,150.82,110.15h47.34v-66.71c0-43.99-28.21-81.51-67.49-95.4ZM163.25,53.78h34.75v54.23c0,49.15-39.99,89.14-89.14,89.14H17.01c1.55-79.32,66.56-143.36,146.24-143.36ZM198.56,353.28h-35.3c-79.83,0-144.93-64.29-146.25-143.8h92.42c49.15,0,89.14,39.99,89.14,89.14v54.67Z"/>
+    </g>
+    <path class="cls-1" d="M12.43,385.61V0H0v398.05h211.46v-12.45H12.43Z"/>
+  </g>
+  <text class="cls-4" transform="translate(261.41 194.93)"><tspan class="cls-3"><tspan x="0" y="0">Lucimara</tspan></tspan><tspan class="cls-3"><tspan x="0" y="121.83">Combinato</tspan></tspan><tspan class="cls-6"><tspan x="0" y="168" xml:space="preserve"> Crp 06 84661</tspan></tspan></text>
+</svg>
