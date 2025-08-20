@@ -1,6 +1,37 @@
 // Dados de exemplo (depois a cliente só adiciona objetos aqui)
 const posts = [
     { 
+        id: "p-002", 
+        date: "2025-08-20", 
+        text: `**Luto**
+
+Luto é quando perdemos algo ou alguém que nos era muito amado e valioso. A perda de um emprego e o fim de um relacionamento também são considerados luto. Vivemos um tempo onde é comum medicar a pessoa que está enlutada, apesar do luto não ser doença. Os casos que necessitam de medicação devem ser avaliados e acompanhados por um psiquiatra.
+
+Os sintomas mais comuns do luto são: dificuldades para dormir, dificuldades para se alimentar, dores no corpo, sistema imunológico fragilizado, choro, raiva, tristeza, desanimo, desamparo, insegurança, falta de concentração e sentimentos de culpa.
+
+Dra. Elisabeth Kubler Ross descreve cinco fases do luto são elas: negação, raiva, barganha, depressão e aceitação. Mas o luto não é uma corrida de obstáculos e cada um deve vive-lo a sua maneira.
+
+Dra. Sarah Vieira compara o luto com uma montanha russa no escuro... Ninguém sabe a hora que vai cair, pode estar tudo bem, de repente uma música, um cheiro te traz uma lembrança.
+
+Apesar da morte ser a única certeza que temos, ela causa muito espanto. A gente tenta se esconder e se afastar da morte, como se ela não fosse parte da vida, procuramos um culpado tentando manter o controle da situação e não encarramos o fato de que a morte sempre foi inevitável.
+
+Jung traz a morte como uma terrível brutalidade, às pessoas são arrancadas de nós de forma muito abrupta. A pessoa que mais amamos ou a única pessoa que amávamos. E a resposta mais comum é desespero na ausência é revela a importância que tinha a presença.
+
+Eu comparo perder um ente querido a perder um membro do corpo: um braço uma perna. Aconteceu uma ruptura, cortou um pouco de si. E o que resta é o silencio.
+
+O que devemos fazer? Reabitar-se, reinventar-se, costurar os pedaços, sobreviver. O luto exige mudanças, mudança de conceitos, de postura, de valores.
+
+O luto exige reflexões sobre o outro lado da vida e sobre o sentido dessa vida, saímos modificados dessa experiência construímos outro conceito de vida e de morte. Fica evidente que não há tempo a perder.
+
+Devemos aprender a honrar nossos entes queridos, porque somos o legado de alguém.
+
+O luto é uma experiência individual, porém, não deve ser vivido sozinho o apoio de amigos e familiares são fundamentais.
+
+**Podemos falar mais sobre isso no seu tempo!**`, 
+        image: null, 
+        likes: 8 
+    },
+    { 
         id: "p-001", 
         date: "2025-08-14", 
         text: `**Quando devo procurar terapia?**
