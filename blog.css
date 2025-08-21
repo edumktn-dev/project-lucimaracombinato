@@ -161,7 +161,7 @@ body {
 
 /* Micro Card Styles (Twitter-like) */
 .micro-card {
-    background: #F9F0E2;
+    background: rgba(249, 240, 226, 0.85);
     border-radius: 24px;
     padding: 24px;
     margin-bottom: 24px;
