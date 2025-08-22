@@ -1218,6 +1218,14 @@ body {
         order: 1;
     }
     
+    .hero-text {
+        text-align: center;
+    }
+    
+    .hero-quote {
+        text-align: center;
+    }
+    
     .about-content,
     .contact-content {
         grid-template-columns: 1fr;
